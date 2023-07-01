@@ -1,0 +1,101 @@
+,ID,nome,ano_de_nascimento,renda_mensal,estado_civil,quantidade_de_filhos,qtd_fish_product,qtd_meat_products,qtd_sweets_products,accept_camp_1,accept_camp_2,accept_camp_3,dt_customer,qtd_purchase,recency
+0,71717,Fernando Cunha,2016,87299,"['solteiro', 'solteiro', 'viuvo']",0,5,26,28,1,1,1,2023-04-28,344,179
+1,91983,Luna Ramos,2005,50817,"['solteiro', 'divorciado']",0,17,19,81,1,1,1,2021-08-13,767,86
+2,93680,Augusto Fogaça,1970,21584,"['casado', 'viuvo', 'solteiro']",0,61,93,92,0,0,1,2020-01-08,4284,18
+3,52016,Helena Jesus,2003,16241,['viuvo'],3,43,43,84,0,1,0,2022-09-23,3494,9
+4,51916,Sr. Davi Luiz Nascimento,1961,10629,['casado'],1,7,49,22,0,0,1,2023-03-24,4251,74
+5,71136,Valentina da Rosa,2004,12965,"['solteiro', 'viuvo', 'divorciado']",1,55,24,19,1,0,0,2018-09-23,4307,115
+6,38780,Luiz Felipe Novaes,1982,29162,['casado'],4,18,13,1,0,1,1,2021-07-27,4476,38
+7,26074,Luiza da Conceição,2022,55203,"['viuvo', 'casado', 'viuvo', 'casado']",3,63,81,97,0,0,0,2021-05-22,2607,82
+8,16993,Bianca Fernandes,1969,51676,"['divorciado', 'viuvo', 'solteiro']",0,66,5,41,0,0,0,2018-11-03,2461,3
+9,71142,Sr. Davi Lucas Ramos,1997,68191,"['viuvo', 'divorciado', 'divorciado', 'divorciado']",4,97,76,10,0,1,0,2020-12-15,4386,153
+10,67112,Vitória Nogueira,1979,4684,['casado'],2,64,72,59,1,1,0,2022-09-10,2146,77
+11,65831,Joana Caldeira,1970,86015,"['solteiro', 'divorciado']",2,7,4,72,1,1,0,2022-09-05,4931,20
+12,32185,Dr. Arthur Rezende,1999,62146,['solteiro'],3,99,19,93,0,0,0,2021-04-01,862,179
+13,84322,Isabel da Mota,1999,66267,['solteiro'],4,89,59,22,1,0,1,2019-07-29,3175,75
+14,28277,Valentina da Mota,1954,53383,"['casado', 'solteiro', 'casado', 'divorciado']",0,5,62,21,1,0,0,2020-06-12,765,160
+15,78197,Dra. Kamilly Santos,1989,16869,"['casado', 'divorciado']",0,13,53,45,0,0,1,2019-10-28,251,114
+16,68848,Kamilly Araújo,2013,44532,"['solteiro', 'solteiro', 'casado']",0,44,44,38,0,0,0,2021-08-09,577,152
+17,31126,Alexandre da Rocha,1965,2941,"['casado', 'solteiro', 'divorciado']",1,23,58,17,0,1,1,2020-09-09,1066,7
+18,39623,Dr. Lucas Gonçalves,1987,74509,"['solteiro', 'viuvo', 'solteiro']",4,39,20,36,1,0,0,2020-05-22,2587,130
+19,44174,Vitor Gabriel da Mata,1987,50819,"['divorciado', 'viuvo', 'divorciado', 'casado']",0,16,53,14,1,1,0,2022-01-31,2441,163
+20,58818,Felipe Pires,1997,85498,['viuvo'],3,1,53,5,1,1,0,2021-08-27,2402,120
+21,24279,Calebe Freitas,1964,75161,"['viuvo', 'casado']",3,23,98,92,1,1,0,2020-08-08,3714,87
+22,80941,João Gabriel Rezende,1961,65345,"['casado', 'viuvo']",3,79,59,41,0,0,1,2019-06-20,2467,139
+23,92188,Kevin Ribeiro,1961,90890,"['viuvo', 'solteiro', 'viuvo', 'casado']",0,15,34,65,0,0,1,2021-11-18,4309,148
+24,64280,Ana Lívia Fernandes,1995,39145,"['divorciado', 'solteiro']",2,39,68,84,1,0,0,2019-11-20,557,106
+25,50315,Luiz Henrique Cunha,2023,70558,"['divorciado', 'casado']",4,51,94,23,1,1,1,2021-08-28,4654,160
+26,30408,Cauã Costa,1998,54588,"['solteiro', 'divorciado', 'casado', 'casado']",3,27,61,7,1,1,1,2019-01-03,3637,76
+27,31063,Sra. Ana Beatriz da Rosa,1953,48583,"['casado', 'viuvo', 'viuvo', 'viuvo']",0,87,94,14,1,0,1,2018-11-04,951,158
+28,12835,Pedro Miguel Gonçalves,1979,20439,"['solteiro', 'casado', 'divorciado']",3,21,42,92,1,1,0,2022-04-19,1208,134
+29,53773,Emanuel da Mata,2006,47766,"['casado', 'casado', 'divorciado', 'viuvo']",3,26,75,88,0,1,0,2020-06-26,693,47
+30,60004,Vinicius da Luz,1979,82056,"['divorciado', 'divorciado', 'divorciado']",2,98,45,64,1,1,0,2022-11-19,4482,110
+31,88492,Luiza Fernandes,2010,30235,"['casado', 'solteiro', 'solteiro']",0,37,83,59,0,0,0,2022-02-17,1819,155
+32,64316,Clarice Ramos,1974,46499,['solteiro'],2,41,68,31,1,1,1,2018-09-27,4276,11
+33,37265,Sr. Emanuel Souza,1994,26613,"['casado', 'divorciado']",2,39,66,94,1,1,1,2021-06-02,1965,11
+34,52428,Ana Julia Alves,2008,66920,"['solteiro', 'viuvo', 'viuvo', 'casado']",0,10,10,95,0,0,0,2022-01-06,1748,112
+35,92660,Kevin Novaes,1955,25643,"['casado', 'solteiro']",2,45,40,86,1,0,1,2023-02-05,1648,75
+36,70250,Maria Rezende,2018,85146,"['casado', 'solteiro', 'divorciado']",0,22,93,24,1,0,0,2020-11-30,52,137
+37,79884,Ana Beatriz Costa,1999,86567,"['solteiro', 'divorciado', 'casado']",4,84,36,35,0,0,0,2022-11-25,2519,172
+38,55246,João Lucas Rocha,1986,78291,"['solteiro', 'solteiro']",4,41,46,20,0,0,1,2019-10-25,1448,130
+39,22366,Vitor Hugo da Rocha,2013,76645,"['solteiro', 'solteiro']",1,97,49,99,1,0,1,2019-05-31,213,134
+40,90480,Dr. Lorenzo Lima,1951,30845,"['divorciado', 'casado']",3,69,40,49,0,1,0,2021-11-29,1565,81
+41,50582,Ana Carolina da Rocha,1954,43308,"['casado', 'casado']",1,33,44,79,0,1,0,2021-07-11,4698,138
+42,19971,Dra. Brenda Moraes,1952,66370,['solteiro'],1,5,1,48,0,1,0,2019-01-09,2825,169
+43,67742,Enrico Porto,2005,20619,"['casado', 'divorciado', 'divorciado']",3,48,1,16,1,1,1,2018-11-07,4626,31
+44,65944,Bárbara Almeida,2014,20117,"['solteiro', 'solteiro']",1,31,2,10,0,0,0,2022-02-16,4897,26
+45,93676,Laís da Costa,1955,35092,"['viuvo', 'divorciado', 'solteiro']",0,63,11,90,1,1,0,2022-05-23,1934,129
+46,58981,Vicente Nunes,1993,37368,"['viuvo', 'solteiro', 'divorciado', 'casado']",3,4,98,66,1,0,1,2021-11-08,983,103
+47,57773,Ana Beatriz Aragão,1984,98987,['divorciado'],4,89,99,30,1,0,1,2021-10-11,2053,53
+48,27548,Helena Farias,2018,91302,"['solteiro', 'viuvo', 'solteiro']",0,74,6,17,0,1,1,2020-12-20,2403,82
+49,77207,Maria Vitória Pinto,1971,2132,"['divorciado', 'casado']",2,1,92,6,1,1,0,2019-02-03,4496,108
+50,48875,Luiz Miguel da Cunha,1958,88358,"['divorciado', 'viuvo']",4,77,49,22,1,1,1,2020-12-01,111,109
+51,49102,Luiz Otávio Souza,2020,43671,"['solteiro', 'viuvo', 'viuvo']",0,96,65,60,0,1,1,2022-06-11,297,143
+52,66299,Mariana Dias,1952,49477,"['divorciado', 'divorciado']",3,2,93,44,0,0,1,2020-01-26,3440,19
+53,87467,Eduarda Porto,2015,94404,['casado'],1,56,8,21,1,1,1,2020-08-23,3581,91
+54,92258,Sr. Henrique Araújo,2013,3437,"['solteiro', 'casado', 'casado']",3,89,4,6,1,1,0,2023-04-18,2280,83
+55,15530,Lorena Silveira,1967,7450,['divorciado'],2,0,8,96,0,0,1,2018-11-10,2576,6
+56,53606,Ana Freitas,2002,89934,"['divorciado', 'casado']",2,65,7,98,0,0,0,2022-08-02,382,133
+57,18042,Olivia Nogueira,1973,47180,['solteiro'],4,22,33,96,0,1,1,2020-08-26,2123,132
+58,72176,Vitor Gabriel Porto,2020,22030,['casado'],4,4,96,31,1,0,0,2022-05-18,1955,117
+59,80799,Thales Melo,1967,64453,['solteiro'],4,43,0,51,0,0,1,2021-06-28,4671,115
+60,56359,Maitê Moreira,1965,19840,"['viuvo', 'solteiro', 'solteiro']",2,77,24,5,0,1,0,2021-02-21,3190,13
+61,91047,Srta. Isabella Cardoso,2002,9078,"['casado', 'viuvo', 'viuvo', 'divorciado']",4,58,52,23,0,0,1,2020-09-27,1560,99
+62,20745,Sr. Cauã Araújo,1994,4796,"['casado', 'divorciado']",0,41,58,47,1,1,0,2018-12-07,4387,102
+63,46717,Pedro Silveira,1962,12497,"['casado', 'solteiro', 'viuvo']",1,66,80,63,1,0,0,2021-09-12,2766,40
+64,84209,Srta. Bruna da Luz,1970,85901,"['viuvo', 'viuvo']",2,3,61,100,1,0,0,2020-07-15,2306,84
+65,34629,João Gabriel das Neves,1970,57148,"['casado', 'divorciado', 'casado', 'viuvo']",1,74,0,45,1,0,0,2018-08-29,206,82
+66,79203,Arthur Barros,1964,77104,"['viuvo', 'divorciado']",3,100,3,37,1,1,1,2020-08-08,1129,93
+67,79224,Luiz Otávio Nunes,1959,19012,"['divorciado', 'casado', 'solteiro', 'viuvo']",1,60,48,81,0,1,0,2022-08-02,3252,148
+68,21391,Guilherme Souza,1997,73085,['viuvo'],1,35,5,96,1,1,0,2023-01-15,399,36
+69,63781,Vitor Peixoto,2000,58748,['viuvo'],4,59,20,62,0,1,1,2021-12-28,1302,151
+70,49531,Ana Sophia Moura,1994,20703,"['viuvo', 'divorciado', 'viuvo']",1,32,22,82,1,1,1,2018-11-05,2384,141
+71,68864,Rodrigo Oliveira,1984,51173,"['casado', 'solteiro']",4,45,21,80,0,1,1,2022-06-09,623,164
+72,22545,Maria Cecília Vieira,1967,24181,"['solteiro', 'solteiro']",4,17,63,72,1,1,1,2019-07-03,3349,67
+73,33096,Dr. Luiz Otávio da Conceição,1998,98966,"['solteiro', 'viuvo', 'casado']",3,60,65,55,1,1,1,2019-04-29,1261,37
+74,12989,Maria Vitória Silveira,1963,93337,"['divorciado', 'divorciado']",4,14,34,6,0,1,0,2018-10-19,85,29
+75,59814,Sra. Gabrielly Cavalcanti,2007,50377,"['divorciado', 'viuvo', 'solteiro']",1,71,70,6,0,0,0,2019-11-30,4236,104
+76,92070,Cecília Pires,2001,36619,['casado'],3,21,56,47,0,1,0,2021-12-09,2740,59
+77,78771,Amanda Rocha,1963,37217,"['divorciado', 'casado', 'casado', 'solteiro']",2,20,38,45,0,1,0,2019-01-28,3916,100
+78,86547,Maria Eduarda Carvalho,1983,65214,"['viuvo', 'casado']",2,12,17,42,0,0,0,2018-07-21,270,103
+79,85519,Dra. Luiza Cavalcanti,2010,75340,"['viuvo', 'casado', 'solteiro']",0,30,29,95,1,1,1,2020-05-27,73,126
+80,58857,Heloísa Carvalho,1959,41946,"['solteiro', 'casado', 'casado', 'viuvo']",1,36,25,41,1,1,1,2021-10-06,1059,30
+81,64930,Dr. Enzo Moura,1995,58612,"['casado', 'casado', 'viuvo']",2,13,61,4,1,0,1,2019-10-22,2818,62
+82,36847,Dr. Enzo Correia,1999,52949,"['divorciado', 'viuvo', 'viuvo', 'divorciado']",4,28,86,97,1,1,1,2020-06-21,2576,132
+83,12560,Lucas Lopes,2000,31802,"['viuvo', 'divorciado', 'solteiro', 'solteiro']",1,92,41,91,0,0,0,2021-08-04,231,59
+84,18072,João Miguel Teixeira,1950,18994,['casado'],0,94,59,91,0,0,1,2019-01-23,4398,45
+85,43055,Kaique Nascimento,2010,2048,"['solteiro', 'viuvo', 'solteiro', 'viuvo']",0,74,44,35,1,1,1,2019-08-21,4881,132
+86,24410,Calebe Cavalcanti,1984,5162,"['divorciado', 'divorciado']",3,26,73,100,1,0,1,2022-10-25,4099,30
+87,85692,Ryan Ribeiro,1965,68715,"['casado', 'casado', 'casado', 'casado']",3,10,72,58,1,0,1,2020-08-09,2875,123
+88,66121,Levi Almeida,2020,55065,"['solteiro', 'solteiro', 'casado', 'solteiro']",3,36,46,51,1,0,0,2020-02-02,2456,132
+89,95038,Ana Vitória Caldeira,1969,46932,['divorciado'],4,20,98,11,1,1,0,2021-12-29,4064,49
+90,34301,Ana Beatriz Mendes,2016,26594,"['solteiro', 'viuvo', 'divorciado']",4,74,55,100,0,1,0,2022-04-01,269,62
+91,76276,Gabrielly da Paz,1950,7707,['casado'],1,56,86,65,0,0,1,2020-12-05,2770,126
+92,37529,João Lucas Moraes,2006,53225,"['viuvo', 'casado', 'viuvo', 'solteiro']",1,96,14,37,0,1,1,2023-02-03,1720,94
+93,18453,João da Rocha,1961,56045,"['divorciado', 'divorciado', 'viuvo', 'divorciado']",4,82,62,2,1,1,0,2019-02-28,4954,126
+94,14349,Kaique Moreira,1989,12972,['casado'],4,3,75,80,1,0,1,2020-09-09,902,151
+95,70954,Enzo Gabriel Nascimento,1999,99776,"['solteiro', 'divorciado', 'viuvo']",0,19,40,78,1,0,1,2022-03-11,2616,98
+96,15528,Leandro Cunha,1968,6079,['viuvo'],1,4,80,89,1,1,1,2019-06-23,2816,74
+97,61331,Yasmin da Mota,2019,73030,['divorciado'],4,70,1,0,0,1,0,2020-09-08,2716,35
+98,57439,Paulo Peixoto,1958,34967,['solteiro'],4,16,62,88,0,0,1,2019-04-26,4569,55
+99,35569,Dra. Daniela Nunes,1975,81794,"['casado', 'casado', 'viuvo', 'casado']",4,25,27,7,1,1,0,2020-11-06,4596,170
